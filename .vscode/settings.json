@@ -1,0 +1,11 @@
+{
+  "code-runner.executorMap": {
+    "python": "python3 -u"
+  },
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.showExecutionMessage": true,
+  "code-runner.runInTerminal": true,
+  "python.defaultInterpreterPath": "/opt/homebrew/bin/python3"
+}
+
+
