@@ -1,0 +1,2 @@
+Line 1: First entry for assignment.
+Line 2: Second entry for assignment.
